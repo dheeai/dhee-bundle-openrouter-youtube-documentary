@@ -1,0 +1,13 @@
+{
+  "name": "dhee-bundle-openrouter-youtube-documentary",
+  "version": "0.1.0",
+  "description": "YouTube-style documentary video pipeline for Dhee — OpenRouter image/video generation + LLM script & narration.",
+  "type": "module",
+  "license": "MIT",
+  "keywords": ["dhee-bundle"],
+  "homepage": "https://github.com/dheeai/dhee-bundle-openrouter-youtube-documentary#readme",
+  "repository": { "type": "git", "url": "git+https://github.com/dheeai/dhee-bundle-openrouter-youtube-documentary.git" },
+  "dhee": { "bundles": "./bundles" },
+  "files": ["bundles", "LICENSE", "README.md"],
+  "engines": { "node": ">=20.0.0" }
+}
